@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945574511714",
+    "project_id": "leohis",
+    "storage_bucket": "leohis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945574511714:android:c0df15ab86ec90e54dbd3b",
+        "android_client_info": {
+          "package_name": "com.leohis.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApiy2-LW7qCo_T7MmucTIyDQGhkqqSEWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
